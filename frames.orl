@@ -1,0 +1,6 @@
+// Frame
+  238: {
+    ConnectedLazer: ./lazer-connected.png
+    Laser: ./laser.png
+  }
+// End of Frame
